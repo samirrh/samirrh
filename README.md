@@ -1,5 +1,5 @@
 # Hi, I'm Samir <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-2A Computer Engineering student @ UWaterloo :desktop_computer:
+2A Computer Engineering student @ UWaterloo :technologist:
 
 I like making cool things and exploring different technologies.
 
