@@ -1,4 +1,4 @@
-# Hi, I'm Samir <img src="https://raw.githubusercontent.com/samirrh/samirrh/master/wave.gif" width="10%">
+# Hi, I'm Samir <img src="https://raw.githubusercontent.com/samirrh/samirrh/master/wave.gif" width="5%">
 2A Computer Engineering student @ UWaterloo  :technologist:  :notebook:
 
 I like making cool things and exploring different technologies
