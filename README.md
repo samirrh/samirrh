@@ -3,6 +3,6 @@
 
 I like making cool things and exploring different technologies
 
-- Previously software developer intern @ OpenText
+- Previously software developer intern @ OpenText, PointClickCare
 - Interested and learning about fullstack development and software architecture
-- Seeking 2022 summer internships!
+- Seeking 2023 winter internships!
