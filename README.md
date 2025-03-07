@@ -2,6 +2,6 @@
 
 I like building cool things and exploring different technologies
 
-- Previously software developer intern @ Carta, OpenText, PointClickCare
+- Previously SWE @ Carta, OpenText, PointClickCare
 - Interested and learning about fullstack development and software architecture
 - Studied Computer Engineering @ UWaterloo
